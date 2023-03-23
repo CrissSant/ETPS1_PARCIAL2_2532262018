@@ -105,7 +105,7 @@ AdaptadorPersonas adaptadorPersonas;
         persona.setNombre("Cristian Santamaria");
         persona.setCargo("Estudiante");
         persona.setCompania("Universidad Tecnologica de El Salvador");
-        persona.setFoto(R.drawable.yo);
+        persona.setFoto(R.drawable.perfil3);
         modelos.add(persona);
 
         return modelos;
